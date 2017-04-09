@@ -85,5 +85,7 @@ ENV/
 # Spyder project settings
 .spyderproject
 
+db.sqlite3
+
 # Rope project settings
 .ropeproject
